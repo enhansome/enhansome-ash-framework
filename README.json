@@ -1,0 +1,496 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ash_postgres",
+          "description": "The PostgreSQL data layer for Ash Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-12T21:33:40Z",
+            "owner": "ash-project",
+            "repo": "ash_postgres",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_sqlite",
+          "description": "The SQLite data layer for Ash Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-11T22:44:28Z",
+            "owner": "ash-project",
+            "repo": "ash_sqlite",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_csv",
+          "description": "The CSV data layer for Ash Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-04-13T00:25:42Z",
+            "owner": "ash-project",
+            "repo": "ash_csv",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_neo4j",
+          "description": "Ash Neo4j datalayer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-06-27T12:36:29Z",
+            "owner": "diffo-dev",
+            "repo": "ash_neo4j",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_blog",
+          "description": "A Blog data layer backed by markdown files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Elixir",
+            "last_commit": "2026-02-08T23:16:59Z",
+            "owner": "ash-project",
+            "repo": "ash_blog",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Data Layer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ash_graphql",
+          "description": "The extension for building GraphQL APIs with Ash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-12T21:17:56Z",
+            "owner": "ash-project",
+            "repo": "ash_graphql",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_json_api",
+          "description": "The JSON:API extension for the Ash Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-02T17:11:29Z",
+            "owner": "ash-project",
+            "repo": "ash_json_api",
+            "stars": 94
+          }
+        }
+      ],
+      "title": "API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ash_paper_trail",
+          "description": "Track changes to your Ash resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-01T17:03:05Z",
+            "owner": "ash-project",
+            "repo": "ash_paper_trail",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentelemetry_ash",
+          "description": "OpenTelemetry integration for Ash Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-04T09:25:10Z",
+            "owner": "ash-project",
+            "repo": "opentelemetry_ash",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_appsignal",
+          "description": ". The AppSignal APM integration for Ash Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-03T23:14:25Z",
+            "owner": "ash-project",
+            "repo": "ash_appsignal",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Observabiliy & Telemetry"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ash_admin",
+          "description": "Super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T21:30:42Z",
+            "owner": "ash-project",
+            "repo": "ash_admin",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_authentication",
+          "description": "Ash Authentication framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-04T02:59:31Z",
+            "owner": "team-alembic",
+            "repo": "ash_authentication",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_phoenix",
+          "description": "Utilities for integrating Ash and Phoenix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-11T14:04:05Z",
+            "owner": "ash-project",
+            "repo": "ash_phoenix",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_events",
+          "description": "Event-architecture extension for Ash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-06-29T16:46:02Z",
+            "owner": "ash-project",
+            "repo": "ash_events",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_oban",
+          "description": "Extension for integrating Ash resources with Oban.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-11T04:13:46Z",
+            "owner": "ash-project",
+            "repo": "ash_oban",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_state_machine",
+          "description": "State machine functionality for Ash resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-04T09:25:17Z",
+            "owner": "ash-project",
+            "repo": "ash_state_machine",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_double_entry",
+          "description": "Double-entry accounting for Ash Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-01T17:05:32Z",
+            "owner": "ash-project",
+            "repo": "ash_double_entry",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_sync",
+          "description": "Real-time sync for Postgres-backed Ash & Phoenix applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2025-05-20T23:23:36Z",
+            "owner": "ash-project",
+            "repo": "ash_sync",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_cloak",
+          "description": "Ash extension to seamlessly encrypt and decrypt resource attributes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-03T14:06:47Z",
+            "owner": "ash-project",
+            "repo": "ash_cloak",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_archival",
+          "description": "Ash extension to implement archival (soft deletion) for resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-03T23:14:28Z",
+            "owner": "ash-project",
+            "repo": "ash_archival",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_rate_limiter",
+          "description": "Rate limiting for Ash Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-05T01:39:54Z",
+            "owner": "ash-project",
+            "repo": "ash_rate_limiter",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_money",
+          "description": "Money handling for Ash Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-03T23:14:41Z",
+            "owner": "ash-project",
+            "repo": "ash_money",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_ops",
+          "description": "Ash extension which generates mix tasks for actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-01T06:04:46Z",
+            "owner": "ash-project",
+            "repo": "ash_ops",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ash_circuit_breaker",
+          "description": "Protects applications from cascading failures by adding circuit breaker functionality to actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-02-05T16:36:47Z",
+            "owner": "ChristianAlexander",
+            "repo": "ash_circuit_breaker",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Realworld",
+          "description": "A fullstack Phoenix LiveView application with backend built with Ash Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-07-10T02:44:24Z",
+            "owner": "team-alembic",
+            "repo": "realworld",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tunez",
+          "description": "The starter application for the Ash Framework book.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-01-11T04:19:27Z",
+            "owner": "sevenseacat",
+            "repo": "tunez",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orca Site",
+          "description": "Orca Live-listening web app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T16:29:16Z",
+            "owner": "orcasound",
+            "repo": "orcasite",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fleetms",
+          "description": "An open source Fleet Maintenance and Management software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-05-08T17:47:18Z",
+            "owner": "jmnda-dev",
+            "repo": "fleetms",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tuesday",
+          "description": "Project management app built with Ash accompanying the book \"Domain Modeling with Ash Framework\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2025-05-01T08:53:31Z",
+            "owner": "devcarrots",
+            "repo": "tuesday",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "League of replays",
+          "description": "Record & Replay league of legends games.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Elixir",
+            "last_commit": "2025-01-04T15:44:58Z",
+            "owner": "mrdotb",
+            "repo": "leagueofreplays",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Red",
+          "description": "Practice spelling Red Words.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-13T13:51:42Z",
+            "owner": "dewetblomerus",
+            "repo": "red",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Demo projects"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:05:16.777Z",
+    "original_repository": "mipmip/awesome-ash-framework",
+    "original_repository_sha": "5d1f95d7635b0b305fe31a49dd2eb3dbd472b951",
+    "enhanced_repository": "enhansome/enhansome-ash-framework",
+    "enhanced_repository_description": null,
+    "title": "Awesome Ash Framework with stars"
+  }
+}
