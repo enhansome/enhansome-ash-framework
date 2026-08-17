@@ -21,7 +21,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-14T19:15:05Z",
+            "last_commit": "2026-08-17T12:58:10Z",
             "owner": "ash-project",
             "repo": "ash_postgres",
             "stars": 188
@@ -35,7 +35,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-15T00:04:58Z",
+            "last_commit": "2026-08-16T22:22:20Z",
             "owner": "ash-project",
             "repo": "ash_sqlite",
             "stars": 30
@@ -409,7 +409,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T16:37:42Z",
+            "last_commit": "2026-08-16T19:24:15Z",
             "owner": "orcasound",
             "repo": "orcasite",
             "stars": 79
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:16:18.322Z",
+    "last_updated": "2026-08-17T13:24:16.790Z",
     "original_repository": "mipmip/awesome-ash-framework",
     "original_repository_sha": "5d1f95d7635b0b305fe31a49dd2eb3dbd472b951",
     "enhanced_repository": "enhansome/enhansome-ash-framework",
