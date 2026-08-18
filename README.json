@@ -21,7 +21,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-17T12:58:10Z",
+            "last_commit": "2026-08-17T16:45:54Z",
             "owner": "ash-project",
             "repo": "ash_postgres",
             "stars": 188
@@ -35,7 +35,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-16T22:22:20Z",
+            "last_commit": "2026-08-17T22:17:23Z",
             "owner": "ash-project",
             "repo": "ash_sqlite",
             "stars": 30
@@ -97,7 +97,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-12T21:17:56Z",
+            "last_commit": "2026-08-17T18:29:58Z",
             "owner": "ash-project",
             "repo": "ash_graphql",
             "stars": 96
@@ -196,7 +196,7 @@
             "last_commit": "2026-08-04T02:59:31Z",
             "owner": "team-alembic",
             "repo": "ash_authentication",
-            "stars": 163
+            "stars": 164
           }
         },
         {
@@ -319,7 +319,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-05T01:39:54Z",
+            "last_commit": "2026-08-17T20:48:50Z",
             "owner": "ash-project",
             "repo": "ash_rate_limiter",
             "stars": 18
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:24:16.790Z",
+    "last_updated": "2026-08-18T13:27:01.059Z",
     "original_repository": "mipmip/awesome-ash-framework",
     "original_repository_sha": "5d1f95d7635b0b305fe31a49dd2eb3dbd472b951",
     "enhanced_repository": "enhansome/enhansome-ash-framework",
