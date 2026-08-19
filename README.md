@@ -18,7 +18,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 * [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
-* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,474 | 🐛 116 | 🌐 Elixir | 📅 2026-08-18 - The offial Ash Framework Project on Github.
+* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,474 | 🐛 118 | 🌐 Elixir | 📅 2026-08-18 - The offial Ash Framework Project on Github.
 
 ## Tools
 
@@ -34,7 +34,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ### Data Layer
 
-* [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 188 | 🐛 28 | 🌐 Elixir | 📅 2026-08-17 - The PostgreSQL data layer for Ash Framework.
+* [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 189 | 🐛 29 | 🌐 Elixir | 📅 2026-08-18 - The PostgreSQL data layer for Ash Framework.
 * [ash\_sqlite](https://github.com/ash-project/ash_sqlite) ⭐ 30 | 🐛 0 | 🌐 Elixir | 📅 2026-08-17 - The SQLite data layer for Ash Framework.
 * [ash\_csv](https://github.com/ash-project/ash_csv) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-04-13 - The CSV data layer for Ash Framework.
 * [ash\_neo4j](https://github.com/diffo-dev/ash_neo4j/) ⭐ 15 | 🐛 38 | 🌐 Elixir | 📅 2026-06-27 - Ash Neo4j datalayer.
@@ -42,7 +42,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ### API
 
-* [ash\_graphql](https://github.com/ash-project/ash_graphql) ⭐ 96 | 🐛 21 | 🌐 Elixir | 📅 2026-08-17 - The extension for building GraphQL APIs with Ash.
+* [ash\_graphql](https://github.com/ash-project/ash_graphql) ⭐ 96 | 🐛 19 | 🌐 Elixir | 📅 2026-08-18 - The extension for building GraphQL APIs with Ash.
 * [ash\_json\_api](https://github.com/ash-project/ash_json_api) ⭐ 94 | 🐛 18 | 🌐 Elixir | 📅 2026-08-02 - The JSON:API extension for the Ash Framework.
 
 ### Observabiliy & Telemetry
@@ -82,9 +82,9 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 * [Tunez](https://github.com/sevenseacat/tunez) ⭐ 121 | 🐛 1 | 🌐 Elixir | 📅 2026-01-11 - The starter application for the Ash Framework book.
 * [Orca Site](https://github.com/orcasound/orcasite) ⭐ 79 | 🐛 130 | 🌐 TypeScript | 📅 2026-08-16 - Orca Live-listening web app.
 * [Fleetms](https://github.com/jmnda-dev/fleetms) ⭐ 30 | 🐛 6 | 🌐 Elixir | 📅 2026-05-08 - An open source Fleet Maintenance and Management software.
-* [Tuesday](https://github.com/devcarrots/tuesday) ⭐ 29 | 🐛 1 | 🌐 Elixir | 📅 2025-05-01 - Project management app built with Ash accompanying the book "Domain Modeling with Ash Framework".
+* [Tuesday](https://github.com/devcarrots/tuesday) ⭐ 30 | 🐛 1 | 🌐 Elixir | 📅 2025-05-01 - Project management app built with Ash accompanying the book "Domain Modeling with Ash Framework".
 * [League of replays](https://github.com/mrdotb/leagueofreplays) ⚠️ Archived - Record & Replay league of legends games.
-* [Red](https://github.com/dewetblomerus/red) ⭐ 12 | 🐛 1 | 🌐 Elixir | 📅 2026-08-13 - Practice spelling Red Words.
+* [Red](https://github.com/dewetblomerus/red) ⭐ 12 | 🐛 2 | 🌐 Elixir | 📅 2026-08-18 - Practice spelling Red Words.
 
 ## Tutorials
 
@@ -130,4 +130,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
