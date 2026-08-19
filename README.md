@@ -34,7 +34,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ### Data Layer
 
-* [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 189 | 🐛 29 | 🌐 Elixir | 📅 2026-08-18 - The PostgreSQL data layer for Ash Framework.
+* [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 189 | 🐛 30 | 🌐 Elixir | 📅 2026-08-18 - The PostgreSQL data layer for Ash Framework.
 * [ash\_sqlite](https://github.com/ash-project/ash_sqlite) ⭐ 30 | 🐛 0 | 🌐 Elixir | 📅 2026-08-17 - The SQLite data layer for Ash Framework.
 * [ash\_csv](https://github.com/ash-project/ash_csv) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-04-13 - The CSV data layer for Ash Framework.
 * [ash\_neo4j](https://github.com/diffo-dev/ash_neo4j/) ⭐ 15 | 🐛 38 | 🌐 Elixir | 📅 2026-06-27 - Ash Neo4j datalayer.
@@ -57,7 +57,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 * [ash\_authentication](https://github.com/team-alembic/ash_authentication) ⭐ 164 | 🐛 6 | 🌐 Elixir | 📅 2026-08-04 - Ash Authentication framework.
 * [ash\_phoenix](https://github.com/ash-project/ash_phoenix) ⭐ 163 | 🐛 3 | 🌐 Elixir | 📅 2026-08-11 - Utilities for integrating Ash and Phoenix.
 * [ash\_events](https://github.com/ash-project/ash_events) ⭐ 44 | 🐛 7 | 🌐 Elixir | 📅 2026-06-29 - Event-architecture extension for Ash.
-* [ash\_oban](https://github.com/ash-project/ash_oban) ⭐ 41 | 🐛 0 | 🌐 Elixir | 📅 2026-08-11 - Extension for integrating Ash resources with Oban.
+* [ash\_oban](https://github.com/ash-project/ash_oban) ⭐ 41 | 🐛 1 | 🌐 Elixir | 📅 2026-08-11 - Extension for integrating Ash resources with Oban.
 * [ash\_state\_machine](https://github.com/ash-project/ash_state_machine) ⭐ 36 | 🐛 0 | 🌐 Elixir | 📅 2026-08-04 - State machine functionality for Ash resources.
 * [ash\_double\_entry](https://github.com/ash-project/ash_double_entry) ⭐ 30 | 🐛 0 | 🌐 Elixir | 📅 2026-08-01 - Double-entry accounting for Ash Framework.
 * [ash\_sync](https://github.com/ash-project/ash_sync) ⭐ 29 | 🐛 0 | 🌐 Elixir | 📅 2025-05-20 - Real-time sync for Postgres-backed Ash & Phoenix applications.
