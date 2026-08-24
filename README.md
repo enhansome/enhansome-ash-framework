@@ -35,7 +35,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 ### Data Layer
 
 * [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 189 | 🐛 29 | 🌐 Elixir | 📅 2026-08-22 - The PostgreSQL data layer for Ash Framework.
-* [ash\_sqlite](https://github.com/ash-project/ash_sqlite) ⭐ 31 | 🐛 2 | 🌐 Elixir | 📅 2026-08-17 - The SQLite data layer for Ash Framework.
+* [ash\_sqlite](https://github.com/ash-project/ash_sqlite) ⭐ 31 | 🐛 3 | 🌐 Elixir | 📅 2026-08-17 - The SQLite data layer for Ash Framework.
 * [ash\_csv](https://github.com/ash-project/ash_csv) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-04-13 - The CSV data layer for Ash Framework.
 * [ash\_neo4j](https://github.com/diffo-dev/ash_neo4j/) ⭐ 16 | 🐛 39 | 🌐 Elixir | 📅 2026-06-27 - Ash Neo4j datalayer.
 * [ash\_blog](https://github.com/ash-project/ash_blog) ⚠️ Archived - A Blog data layer backed by markdown files.
@@ -79,7 +79,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 ## Demo projects
 
 * [Realworld](https://github.com/team-alembic/realworld) ⭐ 222 | 🐛 0 | 🌐 Elixir | 📅 2026-07-10 - A fullstack Phoenix LiveView application with backend built with Ash Framework.
-* [Tunez](https://github.com/sevenseacat/tunez) ⭐ 121 | 🐛 1 | 🌐 Elixir | 📅 2026-01-11 - The starter application for the Ash Framework book.
+* [Tunez](https://github.com/sevenseacat/tunez) ⭐ 120 | 🐛 1 | 🌐 Elixir | 📅 2026-01-11 - The starter application for the Ash Framework book.
 * [Orca Site](https://github.com/orcasound/orcasite) ⭐ 79 | 🐛 132 | 🌐 TypeScript | 📅 2026-08-16 - Orca Live-listening web app.
 * [Fleetms](https://github.com/jmnda-dev/fleetms) ⭐ 30 | 🐛 6 | 🌐 Elixir | 📅 2026-05-08 - An open source Fleet Maintenance and Management software.
 * [Tuesday](https://github.com/devcarrots/tuesday) ⭐ 30 | 🐛 1 | 🌐 Elixir | 📅 2025-05-01 - Project management app built with Ash accompanying the book "Domain Modeling with Ash Framework".
