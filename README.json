@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 213407521,
                 "language": "Elixir",
-                "last_commit": "2026-08-22T14:31:19Z",
+                "last_commit": "2026-08-24T21:22:53Z",
                 "owner": "ash-project",
                 "repo": "ash_postgres",
                 "stars": 189
@@ -200,7 +200,7 @@
                 "archived": false,
                 "id": 542291437,
                 "language": "Elixir",
-                "last_commit": "2026-08-04T02:59:31Z",
+                "last_commit": "2026-08-25T04:40:15Z",
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
                 "stars": 165
@@ -409,7 +409,7 @@
             "last_commit": "2026-07-10T02:44:24Z",
             "owner": "team-alembic",
             "repo": "realworld",
-            "stars": 222
+            "stars": 223
           }
         },
         {
@@ -507,7 +507,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:47:59.743Z",
+    "last_updated": "2026-08-25T06:39:02.697Z",
     "original_repository": "mipmip/awesome-ash-framework",
     "original_repository_id": 991520372,
     "original_repository_sha": "5d1f95d7635b0b305fe31a49dd2eb3dbd472b951",
