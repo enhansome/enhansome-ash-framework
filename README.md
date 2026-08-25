@@ -18,7 +18,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 * [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
-* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,478 | 🐛 114 | 🌐 Elixir | 📅 2026-08-25 - The offial Ash Framework Project on Github.
+* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,480 | 🐛 115 | 🌐 Elixir | 📅 2026-08-25 - The offial Ash Framework Project on Github.
 
 ## Tools
 
