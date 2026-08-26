@@ -200,7 +200,7 @@
                 "archived": false,
                 "id": 542291437,
                 "language": "Elixir",
-                "last_commit": "2026-08-25T04:40:15Z",
+                "last_commit": "2026-08-26T04:10:48Z",
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
                 "stars": 165
@@ -278,7 +278,7 @@
                 "last_commit": "2025-05-20T23:23:36Z",
                 "owner": "ash-project",
                 "repo": "ash_sync",
-                "stars": 30
+                "stars": 31
               }
             },
             {
@@ -496,7 +496,7 @@
             "archived": false,
             "id": 695504699,
             "language": "Elixir",
-            "last_commit": "2026-08-20T21:38:01Z",
+            "last_commit": "2026-08-25T16:07:28Z",
             "owner": "dewetblomerus",
             "repo": "red",
             "stars": 12
@@ -507,7 +507,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:31:37.641Z",
+    "last_updated": "2026-08-26T13:38:07.534Z",
     "original_repository": "mipmip/awesome-ash-framework",
     "original_repository_id": 991520372,
     "original_repository_sha": "5d1f95d7635b0b305fe31a49dd2eb3dbd472b951",
