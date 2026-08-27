@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 213407521,
                 "language": "Elixir",
-                "last_commit": "2026-08-24T21:22:53Z",
+                "last_commit": "2026-08-27T20:06:39Z",
                 "owner": "ash-project",
                 "repo": "ash_postgres",
                 "stars": 189
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 695415986,
                 "language": "Elixir",
-                "last_commit": "2026-08-17T22:17:23Z",
+                "last_commit": "2026-08-27T21:19:07Z",
                 "owner": "ash-project",
                 "repo": "ash_sqlite",
                 "stars": 31
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 348187746,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T01:53:03Z",
+                "last_commit": "2026-08-27T12:49:33Z",
                 "owner": "ash-project",
                 "repo": "ash_admin",
                 "stars": 180
@@ -215,7 +215,7 @@
                 "archived": false,
                 "id": 305876241,
                 "language": "Elixir",
-                "last_commit": "2026-08-11T14:04:05Z",
+                "last_commit": "2026-08-27T19:46:37Z",
                 "owner": "ash-project",
                 "repo": "ash_phoenix",
                 "stars": 163
@@ -507,7 +507,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:20:43.105Z",
+    "last_updated": "2026-08-27T22:33:11.224Z",
     "original_repository_info": {
       "archived": false,
       "id": 991520372,
