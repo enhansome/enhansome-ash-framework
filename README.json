@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 348187746,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T22:33:20Z",
+                "last_commit": "2026-08-27T01:53:03Z",
                 "owner": "ash-project",
                 "repo": "ash_admin",
                 "stars": 180
@@ -200,7 +200,7 @@
                 "archived": false,
                 "id": 542291437,
                 "language": "Elixir",
-                "last_commit": "2026-08-26T04:10:48Z",
+                "last_commit": "2026-08-26T23:06:08Z",
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
                 "stars": 165
@@ -439,7 +439,7 @@
             "last_commit": "2026-08-16T19:24:15Z",
             "owner": "orcasound",
             "repo": "orcasite",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -507,9 +507,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:38:07.534Z",
-    "original_repository": "mipmip/awesome-ash-framework",
-    "original_repository_id": 991520372,
+    "last_updated": "2026-08-27T11:20:43.105Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 991520372,
+      "language": null,
+      "last_commit": "2025-08-26T12:36:03Z",
+      "owner": "mipmip",
+      "repo": "awesome-ash-framework",
+      "stars": 53
+    },
     "original_repository_sha": "5d1f95d7635b0b305fe31a49dd2eb3dbd472b951",
     "enhanced_repository": "enhansome/enhansome-ash-framework",
     "enhanced_repository_description": null,

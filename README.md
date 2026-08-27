@@ -18,7 +18,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 * [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
-* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,480 | 🐛 112 | 🌐 Elixir | 📅 2026-08-25 - The offial Ash Framework Project on Github.
+* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,480 | 🐛 114 | 🌐 Elixir | 📅 2026-08-25 - The offial Ash Framework Project on Github.
 
 ## Tools
 
@@ -53,7 +53,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ### other
 
-* [ash\_admin](https://github.com/ash-project/ash_admin) ⭐ 180 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-21 - Super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.
+* [ash\_admin](https://github.com/ash-project/ash_admin) ⭐ 180 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-27 - Super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.
 * [ash\_authentication](https://github.com/team-alembic/ash_authentication) ⭐ 165 | 🐛 6 | 🌐 Elixir | 📅 2026-08-26 - Ash Authentication framework.
 * [ash\_phoenix](https://github.com/ash-project/ash_phoenix) ⭐ 163 | 🐛 3 | 🌐 Elixir | 📅 2026-08-11 - Utilities for integrating Ash and Phoenix.
 * [ash\_events](https://github.com/ash-project/ash_events) ⭐ 45 | 🐛 7 | 🌐 Elixir | 📅 2026-06-29 - Event-architecture extension for Ash.
@@ -74,13 +74,13 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ## AI Related projects
 
-* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 188 | 🐛 13 | 🌐 Elixir | 📅 2026-08-21 - Structured outputs, vectorization and tool calling for your Ash application.
+* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 189 | 🐛 13 | 🌐 Elixir | 📅 2026-08-21 - Structured outputs, vectorization and tool calling for your Ash application.
 
 ## Demo projects
 
 * [Realworld](https://github.com/team-alembic/realworld) ⭐ 223 | 🐛 0 | 🌐 Elixir | 📅 2026-07-10 - A fullstack Phoenix LiveView application with backend built with Ash Framework.
 * [Tunez](https://github.com/sevenseacat/tunez) ⭐ 120 | 🐛 1 | 🌐 Elixir | 📅 2026-01-11 - The starter application for the Ash Framework book.
-* [Orca Site](https://github.com/orcasound/orcasite) ⭐ 79 | 🐛 132 | 🌐 TypeScript | 📅 2026-08-16 - Orca Live-listening web app.
+* [Orca Site](https://github.com/orcasound/orcasite) ⭐ 80 | 🐛 132 | 🌐 TypeScript | 📅 2026-08-16 - Orca Live-listening web app.
 * [Fleetms](https://github.com/jmnda-dev/fleetms) ⭐ 30 | 🐛 6 | 🌐 Elixir | 📅 2026-05-08 - An open source Fleet Maintenance and Management software.
 * [Tuesday](https://github.com/devcarrots/tuesday) ⭐ 30 | 🐛 1 | 🌐 Elixir | 📅 2025-05-01 - Project management app built with Ash accompanying the book "Domain Modeling with Ash Framework".
 * [League of replays](https://github.com/mrdotb/leagueofreplays) ⚠️ Archived - Record & Replay league of legends games.
@@ -130,4 +130,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
