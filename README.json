@@ -18,7 +18,8 @@
                 "owner": "ash-project",
                 "repo": "ash_postgres",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ash-project",
                 "repo": "ash_sqlite",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "ash-project",
                 "repo": "ash_csv",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "diffo-dev",
                 "repo": "ash_neo4j",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "ash-project",
                 "repo": "ash_blog",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             }
           ],
           "description": null,
@@ -100,7 +105,8 @@
                 "owner": "ash-project",
                 "repo": "ash_graphql",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "ash-project",
                 "repo": "ash_json_api",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             }
           ],
           "description": null,
@@ -137,7 +144,8 @@
                 "owner": "ash-project",
                 "repo": "ash_paper_trail",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "ash-project",
                 "repo": "opentelemetry_ash",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "ash-project",
                 "repo": "ash_appsignal",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             }
           ],
           "description": null,
@@ -189,7 +199,8 @@
                 "owner": "ash-project",
                 "repo": "ash_admin",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -215,11 +227,12 @@
                 "archived": false,
                 "id": 305876241,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T19:46:37Z",
+                "last_commit": "2026-08-28T16:39:07Z",
                 "owner": "ash-project",
                 "repo": "ash_phoenix",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "ash-project",
                 "repo": "ash_events",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "ash-project",
                 "repo": "ash_oban",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "ash-project",
                 "repo": "ash_state_machine",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "ash-project",
                 "repo": "ash_sync",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "ash-project",
                 "repo": "ash_double_entry",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -309,7 +327,8 @@
                 "owner": "ash-project",
                 "repo": "ash_cloak",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -324,7 +343,8 @@
                 "owner": "ash-project",
                 "repo": "ash_archival",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -339,7 +359,8 @@
                 "owner": "ash-project",
                 "repo": "ash_rate_limiter",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -354,7 +375,8 @@
                 "owner": "ash-project",
                 "repo": "ash_money",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -369,7 +391,8 @@
                 "owner": "ash-project",
                 "repo": "ash_ops",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             },
             {
               "node_type": "item",
@@ -384,7 +407,8 @@
                 "owner": "ChristianAlexander",
                 "repo": "ash_circuit_breaker",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
             }
           ],
           "description": null,
@@ -410,7 +434,8 @@
             "owner": "team-alembic",
             "repo": "realworld",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T22:36:05.499Z"
         },
         {
           "node_type": "item",
@@ -425,7 +450,8 @@
             "owner": "sevenseacat",
             "repo": "tunez",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T22:36:05.499Z"
         },
         {
           "node_type": "item",
@@ -440,7 +466,8 @@
             "owner": "orcasound",
             "repo": "orcasite",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T22:36:05.499Z"
         },
         {
           "node_type": "item",
@@ -455,7 +482,8 @@
             "owner": "jmnda-dev",
             "repo": "fleetms",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T22:36:05.499Z"
         },
         {
           "node_type": "item",
@@ -470,7 +498,8 @@
             "owner": "devcarrots",
             "repo": "tuesday",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T22:36:05.499Z"
         },
         {
           "node_type": "item",
@@ -485,7 +514,8 @@
             "owner": "mrdotb",
             "repo": "leagueofreplays",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T22:36:05.499Z"
         },
         {
           "node_type": "item",
@@ -500,14 +530,15 @@
             "owner": "dewetblomerus",
             "repo": "red",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T22:36:05.499Z"
         }
       ],
       "title": "Demo projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:33:11.224Z",
+    "last_updated": "2026-08-28T22:36:05.499Z",
     "original_repository_info": {
       "archived": false,
       "id": 991520372,
