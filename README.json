@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The PostgreSQL data layer for Ash Framework",
+                "homepage": "https://hexdocs.pm/ash_postgres",
                 "id": 213407521,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-27T20:06:39Z",
+                "open_issues": 27,
                 "owner": "ash-project",
                 "repo": "ash_postgres",
-                "stars": 189
+                "stars": 189,
+                "topics": [
+                  "ash",
+                  "data-layer",
+                  "database",
+                  "elixir",
+                  "postgres",
+                  "postgresql"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -28,12 +40,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The SQLite data layer for Ash Framework.",
+                "homepage": "https://hexdocs.pm/ash_sqlite",
                 "id": 695415986,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-27T21:19:07Z",
+                "open_issues": 3,
                 "owner": "ash-project",
                 "repo": "ash_sqlite",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "ash",
+                  "data-layer",
+                  "elixir",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -44,12 +66,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The CSV data layer for Ash Framework",
+                "homepage": "https://hexdocs.pm/ash_csv",
                 "id": 288914898,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-04-13T00:25:42Z",
+                "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_csv",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "ash",
+                  "csv",
+                  "elixir"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -60,12 +91,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ash Neo4j datalayer",
+                "homepage": null,
                 "id": 968472588,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-06-27T12:36:29Z",
+                "open_issues": 39,
                 "owner": "diffo-dev",
                 "repo": "ash_neo4j",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -76,12 +112,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Blog data layer backed by markdown files",
+                "homepage": null,
                 "id": 558912705,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-02-08T23:16:59Z",
+                "open_issues": 5,
                 "owner": "ash-project",
                 "repo": "ash_blog",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             }
@@ -99,12 +140,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The extension for building GraphQL APIs with Ash",
+                "homepage": "https://hexdocs.pm/ash_graphql",
                 "id": 260571487,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-18T16:37:09Z",
+                "open_issues": 19,
                 "owner": "ash-project",
                 "repo": "ash_graphql",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "ash",
+                  "elixir",
+                  "graphql"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -115,12 +165,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The JSON:API extension for the Ash Framework",
+                "homepage": "https://hexdocs.pm/ash_json_api",
                 "id": 214500969,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-02T17:11:29Z",
+                "open_issues": 18,
                 "owner": "ash-project",
                 "repo": "ash_json_api",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "ash",
+                  "elixir",
+                  "json-api"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             }
@@ -138,12 +197,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The extension for keeping an audit log of changes to your Ash resources.",
+                "homepage": "https://hexdocs.pm/ash_paper_trail",
                 "id": 549807729,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-01T17:03:05Z",
+                "open_issues": 18,
                 "owner": "ash-project",
                 "repo": "ash_paper_trail",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "ash",
+                  "audit-log",
+                  "elixir",
+                  "paper-trail"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -154,12 +223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  The Open Telemetry integration for Ash Framework",
+                "homepage": null,
                 "id": 858944017,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-04T09:25:10Z",
+                "open_issues": 1,
                 "owner": "ash-project",
                 "repo": "opentelemetry_ash",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -170,12 +244,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The AppSignal APM integration for Ash Framework",
+                "homepage": "https://hexdocs.pm/ash_appsignal",
                 "id": 690662207,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-03T23:14:25Z",
+                "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_appsignal",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "ash",
+                  "csv",
+                  "data-layer",
+                  "elixir"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             }
@@ -193,12 +277,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.",
+                "homepage": "https://hexdocs.pm/ash_admin",
                 "id": 348187746,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-27T12:49:33Z",
+                "open_issues": 5,
                 "owner": "ash-project",
                 "repo": "ash_admin",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "admin",
+                  "ash",
+                  "elixir"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -209,12 +302,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Ash Authentication framework",
+                "homepage": null,
                 "id": 542291437,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-26T23:06:08Z",
+                "open_issues": 6,
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "ash",
+                  "authentication",
+                  "elixir",
+                  "oauth2",
+                  "password"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -225,12 +329,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilities for integrating Ash and Phoenix",
+                "homepage": "https://hexdocs.pm/ash_phoenix",
                 "id": 305876241,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-28T16:39:07Z",
+                "open_issues": 3,
                 "owner": "ash-project",
                 "repo": "ash_phoenix",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "ash",
+                  "elixir",
+                  "phoenix"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -241,12 +354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An event-architecture extension for Ash.",
+                "homepage": null,
                 "id": 698388260,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-06-29T16:46:02Z",
+                "open_issues": 7,
                 "owner": "ash-project",
                 "repo": "ash_events",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -257,12 +375,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The extension for integrating Ash resources with Oban.",
+                "homepage": "https://hexdocs.pm/ash_oban",
                 "id": 631147884,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-19T20:16:35Z",
+                "open_issues": 1,
                 "owner": "ash-project",
                 "repo": "ash_oban",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "ash",
+                  "background-jobs",
+                  "jobs",
+                  "oban"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -273,12 +401,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The extension for building state machines with Ash resources.",
+                "homepage": "https://hexdocs.pm/ash_state_machine",
                 "id": 631044049,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-04T09:25:17Z",
+                "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_state_machine",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "ash",
+                  "elixir",
+                  "state-machine"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -289,12 +426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time sync for Postgres-backed Ash & Phoenix applications.",
+                "homepage": null,
                 "id": 985963975,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2025-05-20T23:23:36Z",
+                "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_sync",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -305,12 +447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A customizable double entry bookkeeping system backed by Ash resources.",
+                "homepage": null,
                 "id": 675186678,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-01T17:05:32Z",
+                "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_double_entry",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -321,12 +468,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " An Ash extension to seamlessly encrypt and decrypt resource attributes.",
+                "homepage": "https://hexdocs.pm/ash_cloak",
                 "id": 792047066,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-03T14:06:47Z",
+                "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_cloak",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "ash",
+                  "cloak",
+                  "elixir",
+                  "encryption"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -337,12 +494,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Ash extension to implement archival (soft deletion) for resources.",
+                "homepage": "https://hexdocs.pm/ash_archival",
                 "id": 505962610,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-03T23:14:28Z",
+                "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_archival",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "archival",
+                  "ash",
+                  "soft-delete"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -353,12 +519,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rate limiting for Ash actions.",
+                "homepage": null,
                 "id": 986794138,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-17T20:48:50Z",
+                "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_rate_limiter",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -369,12 +540,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The extension for working with money types in Ash.",
+                "homepage": "https://hexdocs.pm/ash",
                 "id": 724216357,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-03T23:14:41Z",
+                "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_money",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "ash",
+                  "elixir",
+                  "money"
+                ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -385,12 +565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Ash extension which generates mix tasks for actions",
+                "homepage": null,
                 "id": 943561450,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-01T06:04:46Z",
+                "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_ops",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             },
@@ -401,12 +586,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1031063865,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-02-05T16:36:47Z",
+                "open_issues": 2,
                 "owner": "ChristianAlexander",
                 "repo": "ash_circuit_breaker",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
             }
@@ -428,12 +618,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fullstack Phoenix LiveView application with backend built with Ash Framework",
+            "homepage": null,
             "id": 597899270,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2026-07-10T02:44:24Z",
+            "open_issues": 0,
             "owner": "team-alembic",
             "repo": "realworld",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "ash-framework",
+              "elixir-lang",
+              "liveview",
+              "phoenix-framework"
+            ]
           },
           "first_seen": "2026-08-28T22:36:05.499Z"
         },
@@ -444,12 +644,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The starter application for the Ash Framework book ",
+            "homepage": "http://tunez.sevenseacat.net",
             "id": 860954801,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2026-01-11T04:19:27Z",
+            "open_issues": 1,
             "owner": "sevenseacat",
             "repo": "tunez",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "ash",
+              "ash-framework"
+            ]
           },
           "first_seen": "2026-08-28T22:36:05.499Z"
         },
@@ -460,12 +668,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Live-listening web app -- http://live.orcasound.net :star:",
+            "homepage": "http://live.orcasound.net",
             "id": 123320660,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-16T19:24:15Z",
+            "open_issues": 132,
             "owner": "orcasound",
             "repo": "orcasite",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:36:05.499Z"
         },
@@ -476,12 +689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source Fleet Maintenance and Management software",
+            "homepage": null,
             "id": 790981325,
             "language": "Elixir",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-08T17:47:18Z",
+            "open_issues": 6,
             "owner": "jmnda-dev",
             "repo": "fleetms",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:36:05.499Z"
         },
@@ -492,12 +710,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fictional project management application built with Ash accompanying the book \"Domain Modeling with Ash Framework\"",
+            "homepage": "https://devcarrots.com",
             "id": 975705248,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2025-05-01T08:53:31Z",
+            "open_issues": 1,
             "owner": "devcarrots",
             "repo": "tuesday",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "ash-framework",
+              "elixir-lang",
+              "learning",
+              "learning-by-doing",
+              "learning-resource",
+              "phoenix-framework"
+            ]
           },
           "first_seen": "2026-08-28T22:36:05.499Z"
         },
@@ -508,12 +738,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":eye: Record & Replay league of legends games",
+            "homepage": "https://leagueofreplays.co",
             "id": 723107595,
             "language": "Elixir",
+            "license": "AGPL-3.0",
             "last_commit": "2025-01-04T15:44:58Z",
+            "open_issues": 0,
             "owner": "mrdotb",
             "repo": "leagueofreplays",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "ash",
+              "elixir",
+              "league-of-legends",
+              "liveview",
+              "phoenix",
+              "recording",
+              "replays"
+            ]
           },
           "first_seen": "2026-08-28T22:36:05.499Z"
         },
@@ -524,12 +767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practice spelling Red Words",
+            "homepage": null,
             "id": 695504699,
             "language": "Elixir",
+            "license": null,
             "last_commit": "2026-08-25T16:07:28Z",
+            "open_issues": 2,
             "owner": "dewetblomerus",
             "repo": "red",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:36:05.499Z"
         }
@@ -538,15 +786,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:36:05.499Z",
+    "last_updated": "2026-08-29T05:05:07.806Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
+      "homepage": null,
       "id": 991520372,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-08-26T12:36:03Z",
+      "open_issues": 1,
       "owner": "mipmip",
       "repo": "awesome-ash-framework",
-      "stars": 53
+      "stars": 53,
+      "topics": [
+        "ash-framework",
+        "awesome",
+        "awesome-list",
+        "elixir"
+      ]
     },
     "original_repository_sha": "5d1f95d7635b0b305fe31a49dd2eb3dbd472b951",
     "enhanced_repository": "enhansome/enhansome-ash-framework",
