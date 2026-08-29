@@ -381,7 +381,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-08-19T20:16:35Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "ash-project",
                 "repo": "ash_oban",
                 "stars": 41,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:05:07.806Z",
+    "last_updated": "2026-08-29T16:51:32.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
