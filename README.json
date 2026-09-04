@@ -45,8 +45,8 @@
                 "id": 695415986,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-09-01T14:22:28Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-04T01:29:04Z",
+                "open_issues": 2,
                 "owner": "ash-project",
                 "repo": "ash_sqlite",
                 "stars": 31,
@@ -674,7 +674,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-16T19:24:15Z",
-            "open_issues": 135,
+            "open_issues": 137,
             "owner": "orcasound",
             "repo": "orcasite",
             "stars": 80,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T16:39:37.923Z",
+    "last_updated": "2026-09-04T16:34:38.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
