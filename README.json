@@ -171,7 +171,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-09-01T22:12:28Z",
-                "open_issues": 18,
+                "open_issues": 20,
                 "owner": "ash-project",
                 "repo": "ash_json_api",
                 "stars": 94,
@@ -282,7 +282,7 @@
                 "id": 348187746,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-02T02:11:50Z",
+                "last_commit": "2026-09-04T17:37:56Z",
                 "open_issues": 5,
                 "owner": "ash-project",
                 "repo": "ash_admin",
@@ -653,7 +653,7 @@
             "open_issues": 1,
             "owner": "sevenseacat",
             "repo": "tunez",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "ash",
               "ash-framework"
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:34:38.426Z",
+    "last_updated": "2026-09-05T15:29:57.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
