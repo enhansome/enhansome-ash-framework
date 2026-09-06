@@ -18,7 +18,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 * [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
-* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,484 | 🐛 114 | 🌐 Elixir | 📅 2026-09-04 - The offial Ash Framework Project on Github.
+* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,484 | 🐛 114 | 🌐 Elixir | 📅 2026-09-05 - The offial Ash Framework Project on Github.
 
 ## Tools
 
@@ -35,7 +35,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 ### Data Layer
 
 * [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 189 | 🐛 27 | 🌐 Elixir | 📅 2026-09-02 - The PostgreSQL data layer for Ash Framework.
-* [ash\_sqlite](https://github.com/ash-project/ash_sqlite) ⭐ 31 | 🐛 2 | 🌐 Elixir | 📅 2026-09-04 - The SQLite data layer for Ash Framework.
+* [ash\_sqlite](https://github.com/ash-project/ash_sqlite) ⭐ 31 | 🐛 2 | 🌐 Elixir | 📅 2026-09-05 - The SQLite data layer for Ash Framework.
 * [ash\_csv](https://github.com/ash-project/ash_csv) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-04-13 - The CSV data layer for Ash Framework.
 * [ash\_neo4j](https://github.com/diffo-dev/ash_neo4j/) ⭐ 16 | 🐛 39 | 🌐 Elixir | 📅 2026-06-27 - Ash Neo4j datalayer.
 * [ash\_blog](https://github.com/ash-project/ash_blog) ⚠️ Archived - A Blog data layer backed by markdown files.
@@ -43,7 +43,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 ### API
 
 * [ash\_graphql](https://github.com/ash-project/ash_graphql) ⭐ 97 | 🐛 19 | 🌐 Elixir | 📅 2026-09-01 - The extension for building GraphQL APIs with Ash.
-* [ash\_json\_api](https://github.com/ash-project/ash_json_api) ⭐ 94 | 🐛 20 | 🌐 Elixir | 📅 2026-09-01 - The JSON:API extension for the Ash Framework.
+* [ash\_json\_api](https://github.com/ash-project/ash_json_api) ⭐ 94 | 🐛 18 | 🌐 Elixir | 📅 2026-09-05 - The JSON:API extension for the Ash Framework.
 
 ### Observabiliy & Telemetry
 
@@ -74,7 +74,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ## AI Related projects
 
-* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 189 | 🐛 13 | 🌐 Elixir | 📅 2026-09-01 - Structured outputs, vectorization and tool calling for your Ash application.
+* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 189 | 🐛 14 | 🌐 Elixir | 📅 2026-09-01 - Structured outputs, vectorization and tool calling for your Ash application.
 
 ## Demo projects
 
@@ -130,4 +130,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
