@@ -18,7 +18,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-09-11T03:08:31Z",
-                "open_issues": 28,
+                "open_issues": 31,
                 "owner": "ash-project",
                 "repo": "ash_postgres",
                 "stars": 189,
@@ -698,7 +698,7 @@
             "open_issues": 6,
             "owner": "jmnda-dev",
             "repo": "fleetms",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T22:36:05.499Z"
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T16:36:13.892Z",
+    "last_updated": "2026-09-14T18:09:59.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
