@@ -17,7 +17,7 @@
                 "id": 213407521,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-09-16T06:26:23Z",
+                "last_commit": "2026-09-18T04:29:25Z",
                 "open_issues": 31,
                 "owner": "ash-project",
                 "repo": "ash_postgres",
@@ -45,8 +45,8 @@
                 "id": 695415986,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-09-05T17:15:34Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-17T22:09:40Z",
+                "open_issues": 4,
                 "owner": "ash-project",
                 "repo": "ash_sqlite",
                 "stars": 31,
@@ -145,7 +145,7 @@
                 "id": 260571487,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-09-17T04:26:21Z",
+                "last_commit": "2026-09-18T03:18:28Z",
                 "open_issues": 20,
                 "owner": "ash-project",
                 "repo": "ash_graphql",
@@ -282,8 +282,8 @@
                 "id": 348187746,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-04T17:37:56Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-18T14:34:25Z",
+                "open_issues": 5,
                 "owner": "ash-project",
                 "repo": "ash_admin",
                 "stars": 180,
@@ -653,7 +653,7 @@
             "open_issues": 1,
             "owner": "sevenseacat",
             "repo": "tunez",
-            "stars": 121,
+            "stars": 120,
             "topics": [
               "ash",
               "ash-framework"
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:14:33.389Z",
+    "last_updated": "2026-09-18T16:41:41.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
