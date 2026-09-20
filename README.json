@@ -17,7 +17,7 @@
                 "id": 213407521,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-09-18T04:29:25Z",
+                "last_commit": "2026-09-19T19:56:37Z",
                 "open_issues": 31,
                 "owner": "ash-project",
                 "repo": "ash_postgres",
@@ -202,7 +202,7 @@
                 "id": 549807729,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-09-17T04:47:57Z",
+                "last_commit": "2026-09-19T17:00:06Z",
                 "open_issues": 18,
                 "owner": "ash-project",
                 "repo": "ash_paper_trail",
@@ -308,7 +308,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-09-17T00:18:32Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
                 "stars": 165,
@@ -338,7 +338,7 @@
                 "open_issues": 3,
                 "owner": "ash-project",
                 "repo": "ash_phoenix",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "ash",
                   "elixir",
@@ -359,7 +359,7 @@
                 "id": 698388260,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-09-18T20:21:44Z",
+                "last_commit": "2026-09-19T16:11:42Z",
                 "open_issues": 2,
                 "owner": "ash-project",
                 "repo": "ash_events",
@@ -528,7 +528,7 @@
                 "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_rate_limiter",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:02:16.553Z",
+    "last_updated": "2026-09-20T16:27:07.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
