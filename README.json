@@ -17,8 +17,8 @@
                 "id": 213407521,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-09-28T11:39:43Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-28T22:34:15Z",
+                "open_issues": 28,
                 "owner": "ash-project",
                 "repo": "ash_postgres",
                 "stars": 190,
@@ -311,7 +311,7 @@
                 "open_issues": 5,
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "ash",
                   "authentication",
@@ -435,7 +435,7 @@
                 "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_sync",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
@@ -671,10 +671,10 @@
             "description": "Live-listening web app -- http://live.orcasound.net :star:",
             "homepage": "http://live.orcasound.net",
             "id": 123320660,
-            "language": "TypeScript",
+            "language": "Elixir",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T17:06:39Z",
-            "open_issues": 149,
+            "last_commit": "2026-09-28T23:42:39Z",
+            "open_issues": 137,
             "owner": "orcasound",
             "repo": "orcasite",
             "stars": 80,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T19:49:04.168Z",
+    "last_updated": "2026-09-29T18:14:02.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
