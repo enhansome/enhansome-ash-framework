@@ -17,7 +17,7 @@
                 "id": 213407521,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-10-01T23:04:51Z",
+                "last_commit": "2026-10-03T16:01:30Z",
                 "open_issues": 29,
                 "owner": "ash-project",
                 "repo": "ash_postgres",
@@ -45,8 +45,8 @@
                 "id": 695415986,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-10-01T23:04:21Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-03T14:39:29Z",
+                "open_issues": 3,
                 "owner": "ash-project",
                 "repo": "ash_sqlite",
                 "stars": 31,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:32:01.797Z",
+    "last_updated": "2026-10-03T16:41:09.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
