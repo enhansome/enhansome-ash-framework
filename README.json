@@ -17,8 +17,8 @@
                 "id": 213407521,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-10-05T14:17:10Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-05T23:02:45Z",
+                "open_issues": 26,
                 "owner": "ash-project",
                 "repo": "ash_postgres",
                 "stars": 190,
@@ -206,7 +206,7 @@
                 "open_issues": 18,
                 "owner": "ash-project",
                 "repo": "ash_paper_trail",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "ash",
                   "audit-log",
@@ -363,7 +363,7 @@
                 "open_issues": 5,
                 "owner": "ash-project",
                 "repo": "ash_events",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:02:49.234Z",
+    "last_updated": "2026-10-06T10:22:47.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
