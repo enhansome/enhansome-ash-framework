@@ -18,7 +18,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 * [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
-* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,518 | 🐛 108 | 🌐 Elixir | 📅 2026-10-08 - The offial Ash Framework Project on Github.
+* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,519 | 🐛 109 | 🌐 Elixir | 📅 2026-10-09 - The offial Ash Framework Project on Github.
 
 ## Tools
 
@@ -34,7 +34,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ### Data Layer
 
-* [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 191 | 🐛 25 | 🌐 Elixir | 📅 2026-10-08 - The PostgreSQL data layer for Ash Framework.
+* [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 190 | 🐛 26 | 🌐 Elixir | 📅 2026-10-09 - The PostgreSQL data layer for Ash Framework.
 * [ash\_sqlite](https://github.com/ash-project/ash_sqlite) ⭐ 31 | 🐛 5 | 🌐 Elixir | 📅 2026-10-08 - The SQLite data layer for Ash Framework.
 * [ash\_csv](https://github.com/ash-project/ash_csv) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-09-17 - The CSV data layer for Ash Framework.
 * [ash\_neo4j](https://github.com/diffo-dev/ash_neo4j/) ⭐ 16 | 🐛 40 | 🌐 Elixir | 📅 2026-06-27 - Ash Neo4j datalayer.
@@ -42,12 +42,12 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ### API
 
-* [ash\_graphql](https://github.com/ash-project/ash_graphql) ⭐ 97 | 🐛 20 | 🌐 Elixir | 📅 2026-10-01 - The extension for building GraphQL APIs with Ash.
+* [ash\_graphql](https://github.com/ash-project/ash_graphql) ⭐ 97 | 🐛 19 | 🌐 Elixir | 📅 2026-10-08 - The extension for building GraphQL APIs with Ash.
 * [ash\_json\_api](https://github.com/ash-project/ash_json_api) ⭐ 94 | 🐛 18 | 🌐 Elixir | 📅 2026-10-01 - The JSON:API extension for the Ash Framework.
 
 ### Observabiliy & Telemetry
 
-* [ash\_paper\_trail](https://github.com/ash-project/ash_paper_trail) ⭐ 54 | 🐛 18 | 🌐 Elixir | 📅 2026-10-07 - Track changes to your Ash resources.
+* [ash\_paper\_trail](https://github.com/ash-project/ash_paper_trail) ⭐ 54 | 🐛 19 | 🌐 Elixir | 📅 2026-10-07 - Track changes to your Ash resources.
 * [opentelemetry\_ash](https://github.com/ash-project/opentelemetry_ash) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-10-01 - OpenTelemetry integration for Ash Framework.
 * [ash\_appsignal](https://github.com/ash-project/ash_appsignal) ⭐ 10 | 🐛 0 | 🌐 Elixir | 📅 2026-10-01 - . The AppSignal APM integration for Ash Framework
 
@@ -55,10 +55,10 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [ash\_admin](https://github.com/ash-project/ash_admin) ⭐ 183 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-01 - Super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.
 * [ash\_authentication](https://github.com/team-alembic/ash_authentication) ⭐ 167 | 🐛 9 | 🌐 Elixir | 📅 2026-10-01 - Ash Authentication framework.
-* [ash\_phoenix](https://github.com/ash-project/ash_phoenix) ⭐ 165 | 🐛 3 | 🌐 Elixir | 📅 2026-10-01 - Utilities for integrating Ash and Phoenix.
-* [ash\_events](https://github.com/ash-project/ash_events) ⭐ 47 | 🐛 7 | 🌐 Elixir | 📅 2026-10-01 - Event-architecture extension for Ash.
+* [ash\_phoenix](https://github.com/ash-project/ash_phoenix) ⭐ 167 | 🐛 4 | 🌐 Elixir | 📅 2026-10-01 - Utilities for integrating Ash and Phoenix.
+* [ash\_events](https://github.com/ash-project/ash_events) ⭐ 48 | 🐛 7 | 🌐 Elixir | 📅 2026-10-01 - Event-architecture extension for Ash.
 * [ash\_oban](https://github.com/ash-project/ash_oban) ⭐ 42 | 🐛 1 | 🌐 Elixir | 📅 2026-10-01 - Extension for integrating Ash resources with Oban.
-* [ash\_state\_machine](https://github.com/ash-project/ash_state_machine) ⭐ 36 | 🐛 0 | 🌐 Elixir | 📅 2026-10-01 - State machine functionality for Ash resources.
+* [ash\_state\_machine](https://github.com/ash-project/ash_state_machine) ⭐ 37 | 🐛 0 | 🌐 Elixir | 📅 2026-10-01 - State machine functionality for Ash resources.
 * [ash\_sync](https://github.com/ash-project/ash_sync) ⭐ 32 | 🐛 0 | 🌐 Elixir | 📅 2025-05-20 - Real-time sync for Postgres-backed Ash & Phoenix applications.
 * [ash\_double\_entry](https://github.com/ash-project/ash_double_entry) ⭐ 31 | 🐛 0 | 🌐 Elixir | 📅 2026-10-01 - Double-entry accounting for Ash Framework.
 * [ash\_cloak](https://github.com/ash-project/ash_cloak) ⭐ 30 | 🐛 0 | 🌐 Elixir | 📅 2026-10-01 - Ash extension to seamlessly encrypt and decrypt resource attributes.
@@ -74,13 +74,13 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ## AI Related projects
 
-* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 190 | 🐛 17 | 🌐 Elixir | 📅 2026-10-02 - Structured outputs, vectorization and tool calling for your Ash application.
+* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 190 | 🐛 16 | 🌐 Elixir | 📅 2026-10-08 - Structured outputs, vectorization and tool calling for your Ash application.
 
 ## Demo projects
 
 * [Realworld](https://github.com/team-alembic/realworld) ⭐ 226 | 🐛 0 | 🌐 Elixir | 📅 2026-07-10 - A fullstack Phoenix LiveView application with backend built with Ash Framework.
 * [Tunez](https://github.com/sevenseacat/tunez) ⭐ 120 | 🐛 1 | 🌐 Elixir | 📅 2026-01-11 - The starter application for the Ash Framework book.
-* [Orca Site](https://github.com/orcasound/orcasite) ⭐ 80 | 🐛 134 | 🌐 TypeScript | 📅 2026-10-03 - Orca Live-listening web app.
+* [Orca Site](https://github.com/orcasound/orcasite) ⭐ 80 | 🐛 136 | 🌐 TypeScript | 📅 2026-10-09 - Orca Live-listening web app.
 * [Fleetms](https://github.com/jmnda-dev/fleetms) ⭐ 32 | 🐛 6 | 🌐 Elixir | 📅 2026-05-08 - An open source Fleet Maintenance and Management software.
 * [Tuesday](https://github.com/devcarrots/tuesday) ⭐ 30 | 🐛 1 | 🌐 Elixir | 📅 2025-05-01 - Project management app built with Ash accompanying the book "Domain Modeling with Ash Framework".
 * [League of replays](https://github.com/mrdotb/leagueofreplays) ⚠️ Archived - Record & Replay league of legends games.
@@ -130,4 +130,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
