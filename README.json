@@ -45,8 +45,8 @@
                 "id": 695415986,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-10-13T16:50:43Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-13T20:32:11Z",
+                "open_issues": 7,
                 "owner": "ash-project",
                 "repo": "ash_sqlite",
                 "stars": 32,
@@ -307,7 +307,7 @@
                 "id": 542291437,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-10-13T04:03:28Z",
+                "last_commit": "2026-10-13T21:05:17Z",
                 "open_issues": 11,
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
@@ -380,7 +380,7 @@
                 "id": 631147884,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-10-01T23:02:31Z",
+                "last_commit": "2026-10-14T02:49:12Z",
                 "open_issues": 1,
                 "owner": "ash-project",
                 "repo": "ash_oban",
@@ -499,7 +499,7 @@
                 "id": 505962610,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-10-01T23:07:51Z",
+                "last_commit": "2026-10-14T02:20:53Z",
                 "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_archival",
@@ -653,7 +653,7 @@
             "open_issues": 1,
             "owner": "sevenseacat",
             "repo": "tunez",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "ash",
               "ash-framework"
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:30:14.962Z",
+    "last_updated": "2026-10-14T17:34:16.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
