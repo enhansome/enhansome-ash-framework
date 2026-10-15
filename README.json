@@ -17,8 +17,8 @@
                 "id": 213407521,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-10-13T14:49:16Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-14T18:32:03Z",
+                "open_issues": 24,
                 "owner": "ash-project",
                 "repo": "ash_postgres",
                 "stars": 190,
@@ -297,6 +297,31 @@
             },
             {
               "node_type": "item",
+              "title": "ash_phoenix",
+              "description": "Utilities for integrating Ash and Phoenix.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Utilities for integrating Ash and Phoenix",
+                "homepage": "https://hexdocs.pm/ash_phoenix",
+                "id": 305876241,
+                "language": "Elixir",
+                "license": null,
+                "last_commit": "2026-10-09T20:17:57Z",
+                "open_issues": 3,
+                "owner": "ash-project",
+                "repo": "ash_phoenix",
+                "stars": 168,
+                "topics": [
+                  "ash",
+                  "elixir",
+                  "phoenix"
+                ]
+              },
+              "first_seen": "2026-08-28T22:36:05.499Z"
+            },
+            {
+              "node_type": "item",
               "title": "ash_authentication",
               "description": "Ash Authentication framework.",
               "children": [],
@@ -318,31 +343,6 @@
                   "elixir",
                   "oauth2",
                   "password"
-                ]
-              },
-              "first_seen": "2026-08-28T22:36:05.499Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ash_phoenix",
-              "description": "Utilities for integrating Ash and Phoenix.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Utilities for integrating Ash and Phoenix",
-                "homepage": "https://hexdocs.pm/ash_phoenix",
-                "id": 305876241,
-                "language": "Elixir",
-                "license": null,
-                "last_commit": "2026-10-09T20:17:57Z",
-                "open_issues": 3,
-                "owner": "ash-project",
-                "repo": "ash_phoenix",
-                "stars": 167,
-                "topics": [
-                  "ash",
-                  "elixir",
-                  "phoenix"
                 ]
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
@@ -384,7 +384,7 @@
                 "open_issues": 1,
                 "owner": "ash-project",
                 "repo": "ash_oban",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "ash",
                   "background-jobs",
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T17:34:16.901Z",
+    "last_updated": "2026-10-15T17:19:04.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
