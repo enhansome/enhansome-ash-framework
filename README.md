@@ -18,7 +18,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 * [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
-* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,538 | 🐛 106 | 🌐 Elixir | 📅 2026-10-16 - The offial Ash Framework Project on Github.
+* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,538 | 🐛 107 | 🌐 Elixir | 📅 2026-10-18 - The offial Ash Framework Project on Github.
 
 ## Tools
 
@@ -35,7 +35,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 ### Data Layer
 
 * [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 190 | 🐛 24 | 🌐 Elixir | 📅 2026-10-17 - The PostgreSQL data layer for Ash Framework.
-* [ash\_sqlite](https://github.com/ash-project/ash_sqlite) ⭐ 32 | 🐛 5 | 🌐 Elixir | 📅 2026-10-17 - The SQLite data layer for Ash Framework.
+* [ash\_sqlite](https://github.com/ash-project/ash_sqlite) ⭐ 32 | 🐛 4 | 🌐 Elixir | 📅 2026-10-17 - The SQLite data layer for Ash Framework.
 * [ash\_csv](https://github.com/ash-project/ash_csv) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-09-17 - The CSV data layer for Ash Framework.
 * [ash\_neo4j](https://github.com/diffo-dev/ash_neo4j/) ⭐ 16 | 🐛 40 | 🌐 Elixir | 📅 2026-06-27 - Ash Neo4j datalayer.
 * [ash\_blog](https://github.com/ash-project/ash_blog) ⚠️ Archived - A Blog data layer backed by markdown files.
@@ -74,7 +74,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ## AI Related projects
 
-* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 191 | 🐛 16 | 🌐 Elixir | 📅 2026-10-13 - Structured outputs, vectorization and tool calling for your Ash application.
+* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 192 | 🐛 16 | 🌐 Elixir | 📅 2026-10-13 - Structured outputs, vectorization and tool calling for your Ash application.
 
 ## Demo projects
 
@@ -130,4 +130,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
