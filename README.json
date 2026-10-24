@@ -283,7 +283,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-10-20T23:14:10Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "ash-project",
                 "repo": "ash_admin",
                 "stars": 183,
@@ -381,7 +381,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-10-23T07:02:49Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "ash-project",
                 "repo": "ash_oban",
                 "stars": 43,
@@ -627,7 +627,7 @@
             "open_issues": 0,
             "owner": "team-alembic",
             "repo": "realworld",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "ash-framework",
               "elixir-lang",
@@ -653,7 +653,7 @@
             "open_issues": 1,
             "owner": "sevenseacat",
             "repo": "tunez",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "ash",
               "ash-framework"
@@ -673,7 +673,7 @@
             "id": 123320660,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-21T20:00:54Z",
+            "last_commit": "2026-10-23T20:20:22Z",
             "open_issues": 132,
             "owner": "orcasound",
             "repo": "orcasite",
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:24:36.776Z",
+    "last_updated": "2026-10-24T16:13:06.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
