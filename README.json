@@ -202,7 +202,7 @@
                 "id": 549807729,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-10-19T03:17:01Z",
+                "last_commit": "2026-10-28T13:23:10Z",
                 "open_issues": 18,
                 "owner": "ash-project",
                 "repo": "ash_paper_trail",
@@ -333,7 +333,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-10-22T01:06:41Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
                 "stars": 167,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:13:32.416Z",
+    "last_updated": "2026-10-28T18:28:16.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
