@@ -18,7 +18,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 * [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
-* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,545 | 🐛 108 | 🌐 Elixir | 📅 2026-10-28 - The offial Ash Framework Project on Github.
+* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,547 | 🐛 106 | 🌐 Elixir | 📅 2026-10-28 - The offial Ash Framework Project on Github.
 
 ## Tools
 
@@ -34,7 +34,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ### Data Layer
 
-* [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 191 | 🐛 23 | 🌐 Elixir | 📅 2026-10-27 - The PostgreSQL data layer for Ash Framework.
+* [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 191 | 🐛 23 | 🌐 Elixir | 📅 2026-10-29 - The PostgreSQL data layer for Ash Framework.
 * [ash\_sqlite](https://github.com/ash-project/ash_sqlite) ⭐ 32 | 🐛 3 | 🌐 Elixir | 📅 2026-10-26 - The SQLite data layer for Ash Framework.
 * [ash\_csv](https://github.com/ash-project/ash_csv) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-10-25 - The CSV data layer for Ash Framework.
 * [ash\_neo4j](https://github.com/diffo-dev/ash_neo4j/) ⭐ 16 | 🐛 40 | 🌐 Elixir | 📅 2026-06-27 - Ash Neo4j datalayer.
@@ -43,11 +43,11 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 ### API
 
 * [ash\_graphql](https://github.com/ash-project/ash_graphql) ⭐ 97 | 🐛 18 | 🌐 Elixir | 📅 2026-10-25 - The extension for building GraphQL APIs with Ash.
-* [ash\_json\_api](https://github.com/ash-project/ash_json_api) ⭐ 94 | 🐛 19 | 🌐 Elixir | 📅 2026-10-25 - The JSON:API extension for the Ash Framework.
+* [ash\_json\_api](https://github.com/ash-project/ash_json_api) ⭐ 94 | 🐛 19 | 🌐 Elixir | 📅 2026-10-29 - The JSON:API extension for the Ash Framework.
 
 ### Observabiliy & Telemetry
 
-* [ash\_paper\_trail](https://github.com/ash-project/ash_paper_trail) ⭐ 54 | 🐛 18 | 🌐 Elixir | 📅 2026-10-28 - Track changes to your Ash resources.
+* [ash\_paper\_trail](https://github.com/ash-project/ash_paper_trail) ⭐ 54 | 🐛 18 | 🌐 Elixir | 📅 2026-10-29 - Track changes to your Ash resources.
 * [opentelemetry\_ash](https://github.com/ash-project/opentelemetry_ash) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-10-01 - OpenTelemetry integration for Ash Framework.
 * [ash\_appsignal](https://github.com/ash-project/ash_appsignal) ⭐ 10 | 🐛 0 | 🌐 Elixir | 📅 2026-10-25 - . The AppSignal APM integration for Ash Framework
 
@@ -130,4 +130,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
