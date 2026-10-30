@@ -146,7 +146,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-10-25T17:13:34Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "ash-project",
                 "repo": "ash_graphql",
                 "stars": 97,
@@ -170,7 +170,7 @@
                 "id": 214500969,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-10-29T00:26:35Z",
+                "last_commit": "2026-10-30T14:08:33Z",
                 "open_issues": 19,
                 "owner": "ash-project",
                 "repo": "ash_json_api",
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:37:49.419Z",
+    "last_updated": "2026-10-30T18:10:30.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",

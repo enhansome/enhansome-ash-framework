@@ -18,7 +18,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 * [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
-* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,547 | 🐛 106 | 🌐 Elixir | 📅 2026-10-28 - The offial Ash Framework Project on Github.
+* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,548 | 🐛 107 | 🌐 Elixir | 📅 2026-10-28 - The offial Ash Framework Project on Github.
 
 ## Tools
 
@@ -42,8 +42,8 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ### API
 
-* [ash\_graphql](https://github.com/ash-project/ash_graphql) ⭐ 97 | 🐛 18 | 🌐 Elixir | 📅 2026-10-25 - The extension for building GraphQL APIs with Ash.
-* [ash\_json\_api](https://github.com/ash-project/ash_json_api) ⭐ 94 | 🐛 19 | 🌐 Elixir | 📅 2026-10-29 - The JSON:API extension for the Ash Framework.
+* [ash\_graphql](https://github.com/ash-project/ash_graphql) ⭐ 97 | 🐛 19 | 🌐 Elixir | 📅 2026-10-25 - The extension for building GraphQL APIs with Ash.
+* [ash\_json\_api](https://github.com/ash-project/ash_json_api) ⭐ 94 | 🐛 19 | 🌐 Elixir | 📅 2026-10-30 - The JSON:API extension for the Ash Framework.
 
 ### Observabiliy & Telemetry
 
@@ -130,4 +130,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
