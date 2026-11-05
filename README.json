@@ -17,11 +17,11 @@
                 "id": 213407521,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-11-04T07:47:06Z",
+                "last_commit": "2026-11-05T06:33:14Z",
                 "open_issues": 25,
                 "owner": "ash-project",
                 "repo": "ash_postgres",
-                "stars": 191,
+                "stars": 190,
                 "topics": [
                   "ash",
                   "data-layer",
@@ -174,7 +174,7 @@
                 "open_issues": 20,
                 "owner": "ash-project",
                 "repo": "ash_json_api",
-                "stars": 95,
+                "stars": 94,
                 "topics": [
                   "ash",
                   "elixir",
@@ -363,7 +363,7 @@
                 "open_issues": 2,
                 "owner": "ash-project",
                 "repo": "ash_events",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:36:05.499Z"
@@ -381,7 +381,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-10-25T18:21:57Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "ash-project",
                 "repo": "ash_oban",
                 "stars": 43,
@@ -673,8 +673,8 @@
             "id": 123320660,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-25T19:05:23Z",
-            "open_issues": 132,
+            "last_commit": "2026-11-05T18:56:56Z",
+            "open_issues": 134,
             "owner": "orcasound",
             "repo": "orcasite",
             "stars": 80,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T19:59:38.214Z",
+    "last_updated": "2026-11-05T20:14:30.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
