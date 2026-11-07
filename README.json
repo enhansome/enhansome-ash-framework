@@ -21,7 +21,7 @@
                 "open_issues": 26,
                 "owner": "ash-project",
                 "repo": "ash_postgres",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "ash",
                   "data-layer",
@@ -308,7 +308,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-11-03T20:08:16Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
                 "stars": 169,
@@ -334,7 +334,7 @@
                 "id": 305876241,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-11-01T13:26:40Z",
+                "last_commit": "2026-11-07T07:34:36Z",
                 "open_issues": 3,
                 "owner": "ash-project",
                 "repo": "ash_phoenix",
@@ -360,7 +360,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-11-02T18:52:57Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "ash-project",
                 "repo": "ash_events",
                 "stars": 49,
@@ -698,7 +698,7 @@
             "open_issues": 0,
             "owner": "jmnda-dev",
             "repo": "fleetms",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T22:36:05.499Z"
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:40:00.371Z",
+    "last_updated": "2026-11-07T17:50:30.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
