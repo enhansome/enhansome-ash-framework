@@ -18,7 +18,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 * [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
-* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,553 | 🐛 110 | 🌐 Elixir | 📅 2026-11-07 - The offial Ash Framework Project on Github.
+* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,555 | 🐛 109 | 🌐 Elixir | 📅 2026-11-07 - The offial Ash Framework Project on Github.
 
 ## Tools
 
@@ -54,7 +54,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 ### other
 
 * [ash\_admin](https://github.com/ash-project/ash_admin) ⭐ 183 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-03 - Super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.
-* [ash\_authentication](https://github.com/team-alembic/ash_authentication) ⭐ 169 | 🐛 9 | 🌐 Elixir | 📅 2026-11-03 - Ash Authentication framework.
+* [ash\_authentication](https://github.com/team-alembic/ash_authentication) ⭐ 169 | 🐛 8 | 🌐 Elixir | 📅 2026-11-07 - Ash Authentication framework.
 * [ash\_phoenix](https://github.com/ash-project/ash_phoenix) ⭐ 168 | 🐛 3 | 🌐 Elixir | 📅 2026-11-07 - Utilities for integrating Ash and Phoenix.
 * [ash\_events](https://github.com/ash-project/ash_events) ⭐ 49 | 🐛 3 | 🌐 Elixir | 📅 2026-11-02 - Event-architecture extension for Ash.
 * [ash\_oban](https://github.com/ash-project/ash_oban) ⭐ 43 | 🐛 1 | 🌐 Elixir | 📅 2026-11-05 - Extension for integrating Ash resources with Oban.
@@ -74,7 +74,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ## AI Related projects
 
-* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 194 | 🐛 14 | 🌐 Elixir | 📅 2026-11-02 - Structured outputs, vectorization and tool calling for your Ash application.
+* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 194 | 🐛 14 | 🌐 Elixir | 📅 2026-11-07 - Structured outputs, vectorization and tool calling for your Ash application.
 
 ## Demo projects
 
@@ -130,4 +130,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
