@@ -18,7 +18,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 * [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
-* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,557 | 🐛 108 | 🌐 Elixir | 📅 2026-11-09 - The offial Ash Framework Project on Github.
+* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,558 | 🐛 110 | 🌐 Elixir | 📅 2026-11-09 - The offial Ash Framework Project on Github.
 
 ## Tools
 
@@ -43,7 +43,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 ### API
 
 * [ash\_graphql](https://github.com/ash-project/ash_graphql) ⭐ 97 | 🐛 17 | 🌐 Elixir | 📅 2026-11-04 - The extension for building GraphQL APIs with Ash.
-* [ash\_json\_api](https://github.com/ash-project/ash_json_api) ⭐ 94 | 🐛 19 | 🌐 Elixir | 📅 2026-11-09 - The JSON:API extension for the Ash Framework.
+* [ash\_json\_api](https://github.com/ash-project/ash_json_api) ⭐ 94 | 🐛 20 | 🌐 Elixir | 📅 2026-11-09 - The JSON:API extension for the Ash Framework.
 
 ### Observabiliy & Telemetry
 
@@ -53,12 +53,12 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ### other
 
-* [ash\_admin](https://github.com/ash-project/ash_admin) ⭐ 183 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-03 - Super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.
+* [ash\_admin](https://github.com/ash-project/ash_admin) ⭐ 183 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-10 - Super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.
 * [ash\_authentication](https://github.com/team-alembic/ash_authentication) ⭐ 169 | 🐛 8 | 🌐 Elixir | 📅 2026-11-07 - Ash Authentication framework.
 * [ash\_phoenix](https://github.com/ash-project/ash_phoenix) ⭐ 168 | 🐛 3 | 🌐 Elixir | 📅 2026-11-07 - Utilities for integrating Ash and Phoenix.
 * [ash\_events](https://github.com/ash-project/ash_events) ⭐ 49 | 🐛 3 | 🌐 Elixir | 📅 2026-11-02 - Event-architecture extension for Ash.
 * [ash\_oban](https://github.com/ash-project/ash_oban) ⭐ 43 | 🐛 1 | 🌐 Elixir | 📅 2026-11-05 - Extension for integrating Ash resources with Oban.
-* [ash\_state\_machine](https://github.com/ash-project/ash_state_machine) ⭐ 37 | 🐛 1 | 🌐 Elixir | 📅 2026-11-01 - State machine functionality for Ash resources.
+* [ash\_state\_machine](https://github.com/ash-project/ash_state_machine) ⭐ 37 | 🐛 1 | 🌐 Elixir | 📅 2026-11-10 - State machine functionality for Ash resources.
 * [ash\_sync](https://github.com/ash-project/ash_sync) ⭐ 32 | 🐛 0 | 🌐 Elixir | 📅 2025-05-20 - Real-time sync for Postgres-backed Ash & Phoenix applications.
 * [ash\_double\_entry](https://github.com/ash-project/ash_double_entry) ⭐ 32 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - Double-entry accounting for Ash Framework.
 * [ash\_cloak](https://github.com/ash-project/ash_cloak) ⭐ 30 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - Ash extension to seamlessly encrypt and decrypt resource attributes.
@@ -74,11 +74,11 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ## AI Related projects
 
-* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 194 | 🐛 14 | 🌐 Elixir | 📅 2026-11-07 - Structured outputs, vectorization and tool calling for your Ash application.
+* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 194 | 🐛 14 | 🌐 Elixir | 📅 2026-11-10 - Structured outputs, vectorization and tool calling for your Ash application.
 
 ## Demo projects
 
-* [Realworld](https://github.com/team-alembic/realworld) ⭐ 228 | 🐛 0 | 🌐 Elixir | 📅 2026-07-10 - A fullstack Phoenix LiveView application with backend built with Ash Framework.
+* [Realworld](https://github.com/team-alembic/realworld) ⭐ 229 | 🐛 0 | 🌐 Elixir | 📅 2026-07-10 - A fullstack Phoenix LiveView application with backend built with Ash Framework.
 * [Tunez](https://github.com/sevenseacat/tunez) ⭐ 123 | 🐛 1 | 🌐 Elixir | 📅 2026-01-11 - The starter application for the Ash Framework book.
 * [Orca Site](https://github.com/orcasound/orcasite) ⭐ 80 | 🐛 134 | 🌐 TypeScript | 📅 2026-11-06 - Orca Live-listening web app.
 * [Fleetms](https://github.com/jmnda-dev/fleetms) ⭐ 36 | 🐛 0 | 🌐 Elixir | 📅 2026-10-17 - An open source Fleet Maintenance and Management software.
@@ -130,4 +130,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
