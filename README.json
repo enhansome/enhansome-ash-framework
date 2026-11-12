@@ -203,7 +203,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-11-01T13:23:37Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "ash-project",
                 "repo": "ash_paper_trail",
                 "stars": 54,
@@ -286,7 +286,7 @@
                 "open_issues": 8,
                 "owner": "ash-project",
                 "repo": "ash_admin",
-                "stars": 183,
+                "stars": 182,
                 "topics": [
                   "admin",
                   "ash",
@@ -307,8 +307,8 @@
                 "id": 542291437,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-11-07T22:04:36Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-12T05:24:20Z",
+                "open_issues": 9,
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
                 "stars": 169,
@@ -673,8 +673,8 @@
             "id": 123320660,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-11T17:52:22Z",
-            "open_issues": 132,
+            "last_commit": "2026-11-12T17:46:52Z",
+            "open_issues": 131,
             "owner": "orcasound",
             "repo": "orcasite",
             "stars": 80,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:50:08.373Z",
+    "last_updated": "2026-11-12T20:23:48.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
