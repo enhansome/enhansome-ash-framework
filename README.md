@@ -18,7 +18,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 * [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
-* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,561 | 🐛 110 | 🌐 Elixir | 📅 2026-11-12 - The offial Ash Framework Project on Github.
+* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,562 | 🐛 111 | 🌐 Elixir | 📅 2026-11-12 - The offial Ash Framework Project on Github.
 
 ## Tools
 
@@ -34,7 +34,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ### Data Layer
 
-* [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 191 | 🐛 27 | 🌐 Elixir | 📅 2026-11-11 - The PostgreSQL data layer for Ash Framework.
+* [ash\_postgres](https://github.com/ash-project/ash_postgres) ⭐ 191 | 🐛 26 | 🌐 Elixir | 📅 2026-11-12 - The PostgreSQL data layer for Ash Framework.
 * [ash\_sqlite](https://github.com/ash-project/ash_sqlite) ⭐ 32 | 🐛 3 | 🌐 Elixir | 📅 2026-11-01 - The SQLite data layer for Ash Framework.
 * [ash\_csv](https://github.com/ash-project/ash_csv) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-10-25 - The CSV data layer for Ash Framework.
 * [ash\_neo4j](https://github.com/diffo-dev/ash_neo4j/) ⭐ 16 | 🐛 40 | 🌐 Elixir | 📅 2026-06-27 - Ash Neo4j datalayer.
@@ -43,25 +43,25 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 ### API
 
 * [ash\_graphql](https://github.com/ash-project/ash_graphql) ⭐ 97 | 🐛 17 | 🌐 Elixir | 📅 2026-11-04 - The extension for building GraphQL APIs with Ash.
-* [ash\_json\_api](https://github.com/ash-project/ash_json_api) ⭐ 94 | 🐛 19 | 🌐 Elixir | 📅 2026-11-11 - The JSON:API extension for the Ash Framework.
+* [ash\_json\_api](https://github.com/ash-project/ash_json_api) ⭐ 94 | 🐛 18 | 🌐 Elixir | 📅 2026-11-12 - The JSON:API extension for the Ash Framework.
 
 ### Observabiliy & Telemetry
 
-* [ash\_paper\_trail](https://github.com/ash-project/ash_paper_trail) ⭐ 54 | 🐛 19 | 🌐 Elixir | 📅 2026-11-01 - Track changes to your Ash resources.
+* [ash\_paper\_trail](https://github.com/ash-project/ash_paper_trail) ⭐ 54 | 🐛 18 | 🌐 Elixir | 📅 2026-11-12 - Track changes to your Ash resources.
 * [opentelemetry\_ash](https://github.com/ash-project/opentelemetry_ash) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - OpenTelemetry integration for Ash Framework.
 * [ash\_appsignal](https://github.com/ash-project/ash_appsignal) ⭐ 10 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - . The AppSignal APM integration for Ash Framework
 
 ### other
 
 * [ash\_admin](https://github.com/ash-project/ash_admin) ⭐ 182 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-11 - Super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.
-* [ash\_authentication](https://github.com/team-alembic/ash_authentication) ⭐ 169 | 🐛 9 | 🌐 Elixir | 📅 2026-11-12 - Ash Authentication framework.
+* [ash\_authentication](https://github.com/team-alembic/ash_authentication) ⭐ 170 | 🐛 10 | 🌐 Elixir | 📅 2026-11-12 - Ash Authentication framework.
 * [ash\_phoenix](https://github.com/ash-project/ash_phoenix) ⭐ 168 | 🐛 3 | 🌐 Elixir | 📅 2026-11-07 - Utilities for integrating Ash and Phoenix.
 * [ash\_events](https://github.com/ash-project/ash_events) ⭐ 49 | 🐛 3 | 🌐 Elixir | 📅 2026-11-02 - Event-architecture extension for Ash.
 * [ash\_oban](https://github.com/ash-project/ash_oban) ⭐ 43 | 🐛 1 | 🌐 Elixir | 📅 2026-11-05 - Extension for integrating Ash resources with Oban.
 * [ash\_state\_machine](https://github.com/ash-project/ash_state_machine) ⭐ 37 | 🐛 1 | 🌐 Elixir | 📅 2026-11-10 - State machine functionality for Ash resources.
 * [ash\_sync](https://github.com/ash-project/ash_sync) ⭐ 32 | 🐛 0 | 🌐 Elixir | 📅 2025-05-20 - Real-time sync for Postgres-backed Ash & Phoenix applications.
 * [ash\_double\_entry](https://github.com/ash-project/ash_double_entry) ⭐ 32 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - Double-entry accounting for Ash Framework.
-* [ash\_cloak](https://github.com/ash-project/ash_cloak) ⭐ 30 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - Ash extension to seamlessly encrypt and decrypt resource attributes.
+* [ash\_cloak](https://github.com/ash-project/ash_cloak) ⭐ 31 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - Ash extension to seamlessly encrypt and decrypt resource attributes.
 * [ash\_archival](https://github.com/ash-project/ash_archival) ⭐ 27 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - Ash extension to implement archival (soft deletion) for resources.
 * [ash\_rate\_limiter](https://github.com/ash-project/ash_rate_limiter) ⭐ 19 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - Rate limiting for Ash Framework.
 * [ash\_money](https://github.com/ash-project/ash_money) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - Money handling for Ash Framework.
@@ -74,7 +74,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ## AI Related projects
 
-* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 194 | 🐛 16 | 🌐 Elixir | 📅 2026-11-12 - Structured outputs, vectorization and tool calling for your Ash application.
+* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 194 | 🐛 17 | 🌐 Elixir | 📅 2026-11-12 - Structured outputs, vectorization and tool calling for your Ash application.
 
 ## Demo projects
 
@@ -130,4 +130,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
