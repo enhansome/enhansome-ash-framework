@@ -18,7 +18,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-11-12T23:41:47Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "ash-project",
                 "repo": "ash_postgres",
                 "stars": 191,
@@ -202,8 +202,8 @@
                 "id": 549807729,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-11-12T21:23:57Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-14T01:35:09Z",
+                "open_issues": 17,
                 "owner": "ash-project",
                 "repo": "ash_paper_trail",
                 "stars": 54,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T19:59:19.113Z",
+    "last_updated": "2026-11-14T18:27:31.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
