@@ -307,8 +307,8 @@
                 "id": 542291437,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-11-12T05:24:20Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-15T15:17:41Z",
+                "open_issues": 9,
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
                 "stars": 170,
@@ -474,7 +474,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-11-01T21:03:31Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ash-project",
                 "repo": "ash_cloak",
                 "stars": 31,
@@ -719,7 +719,7 @@
             "open_issues": 1,
             "owner": "devcarrots",
             "repo": "tuesday",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "ash-framework",
               "elixir-lang",
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:27:31.406Z",
+    "last_updated": "2026-11-15T19:04:27.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
