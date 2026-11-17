@@ -18,7 +18,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 * [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 * [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
-* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,568 | 🐛 109 | 🌐 Elixir | 📅 2026-11-16 - The offial Ash Framework Project on Github.
+* [Ash Framework Github](https://github.com/ash-project/ash) ⭐ 2,568 | 🐛 109 | 🌐 Elixir | 📅 2026-11-17 - The offial Ash Framework Project on Github.
 
 ## Tools
 
@@ -64,7 +64,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 * [ash\_cloak](https://github.com/ash-project/ash_cloak) ⭐ 31 | 🐛 0 | 🌐 Elixir | 📅 2026-11-16 - Ash extension to seamlessly encrypt and decrypt resource attributes.
 * [ash\_archival](https://github.com/ash-project/ash_archival) ⭐ 27 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - Ash extension to implement archival (soft deletion) for resources.
 * [ash\_rate\_limiter](https://github.com/ash-project/ash_rate_limiter) ⭐ 19 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - Rate limiting for Ash Framework.
-* [ash\_money](https://github.com/ash-project/ash_money) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - Money handling for Ash Framework.
+* [ash\_money](https://github.com/ash-project/ash_money) ⭐ 17 | 🐛 0 | 🌐 Elixir | 📅 2026-11-01 - Money handling for Ash Framework.
 * [ash\_ops](https://github.com/ash-project/ash_ops) ⭐ 15 | 🐛 1 | 🌐 Elixir | 📅 2026-11-01 - Ash extension which generates mix tasks for actions.
 * [ash\_circuit\_breaker](https://github.com/christianalexander/ash_circuit_breaker) ⭐ 10 | 🐛 2 | 🌐 Elixir | 📅 2026-02-05 - Protects applications from cascading failures by adding circuit breaker functionality to actions.
 
@@ -74,14 +74,14 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ## AI Related projects
 
-* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 194 | 🐛 18 | 🌐 Elixir | 📅 2026-11-16 - Structured outputs, vectorization and tool calling for your Ash application.
+* [ash\_ai](https://github.com/ash-project/ash_ai) ⭐ 194 | 🐛 16 | 🌐 Elixir | 📅 2026-11-16 - Structured outputs, vectorization and tool calling for your Ash application.
 
 ## Demo projects
 
 * [Realworld](https://github.com/team-alembic/realworld) ⭐ 229 | 🐛 0 | 🌐 Elixir | 📅 2026-07-10 - A fullstack Phoenix LiveView application with backend built with Ash Framework.
 * [Tunez](https://github.com/sevenseacat/tunez) ⭐ 123 | 🐛 1 | 🌐 Elixir | 📅 2026-01-11 - The starter application for the Ash Framework book.
-* [Orca Site](https://github.com/orcasound/orcasite) ⭐ 80 | 🐛 132 | 🌐 TypeScript | 📅 2026-11-12 - Orca Live-listening web app.
-* [Fleetms](https://github.com/jmnda-dev/fleetms) ⭐ 36 | 🐛 0 | 🌐 Elixir | 📅 2026-10-17 - An open source Fleet Maintenance and Management software.
+* [Orca Site](https://github.com/orcasound/orcasite) ⭐ 80 | 🐛 131 | 🌐 TypeScript | 📅 2026-11-17 - Orca Live-listening web app.
+* [Fleetms](https://github.com/jmnda-dev/fleetms) ⭐ 37 | 🐛 0 | 🌐 Elixir | 📅 2026-10-17 - An open source Fleet Maintenance and Management software.
 * [Tuesday](https://github.com/devcarrots/tuesday) ⭐ 31 | 🐛 1 | 🌐 Elixir | 📅 2025-05-01 - Project management app built with Ash accompanying the book "Domain Modeling with Ash Framework".
 * [League of replays](https://github.com/mrdotb/leagueofreplays) ⚠️ Archived - Record & Replay league of legends games.
 * [Red](https://github.com/dewetblomerus/red) ⭐ 12 | 🐛 2 | 🌐 Elixir | 📅 2026-09-08 - Practice spelling Red Words.
@@ -130,4 +130,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

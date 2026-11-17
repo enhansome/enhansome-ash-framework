@@ -549,7 +549,7 @@
                 "open_issues": 0,
                 "owner": "ash-project",
                 "repo": "ash_money",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "ash",
                   "elixir",
@@ -673,8 +673,8 @@
             "id": 123320660,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-12T17:46:52Z",
-            "open_issues": 132,
+            "last_commit": "2026-11-17T20:56:19Z",
+            "open_issues": 131,
             "owner": "orcasound",
             "repo": "orcasite",
             "stars": 80,
@@ -698,7 +698,7 @@
             "open_issues": 0,
             "owner": "jmnda-dev",
             "repo": "fleetms",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T22:36:05.499Z"
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:28:49.937Z",
+    "last_updated": "2026-11-17T21:17:50.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
