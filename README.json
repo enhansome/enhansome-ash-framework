@@ -170,8 +170,8 @@
                 "id": 214500969,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-11-15T20:19:14Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-20T01:44:13Z",
+                "open_issues": 16,
                 "owner": "ash-project",
                 "repo": "ash_json_api",
                 "stars": 94,
@@ -282,8 +282,8 @@
                 "id": 348187746,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-19T20:21:40Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-20T01:36:19Z",
+                "open_issues": 8,
                 "owner": "ash-project",
                 "repo": "ash_admin",
                 "stars": 182,
@@ -308,7 +308,7 @@
                 "language": "Elixir",
                 "license": null,
                 "last_commit": "2026-11-18T03:47:24Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "team-alembic",
                 "repo": "ash_authentication",
                 "stars": 170,
@@ -747,7 +747,7 @@
             "open_issues": 0,
             "owner": "mrdotb",
             "repo": "leagueofreplays",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "ash",
               "elixir",
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T20:56:34.620Z",
+    "last_updated": "2026-11-20T20:41:43.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ash Framework extensions, layers and resources. ",
